@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = juanpabloangarita@gmail.com
+	name = Juan Pablo Angarita
